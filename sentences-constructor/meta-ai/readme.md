@@ -1,0 +1,1 @@
+There are no specific requirnments of prompt structer and formate in Llama 4 llm model but i found on internet that problem and solution structer based prompt

@@ -1,0 +1,1 @@
+There are no specific requirnments of prompt structer and formate in Grok 3 model
